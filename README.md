@@ -2,7 +2,7 @@
 
 <h2>🔖 Sobre</h2>
 <p>Trabalho de conclusão de curso feito durante o curso técnico de informática no IFSP.</p>
-<p>Consiste em um site para administração de uma loja de canecas</p>
+<p>Desenvolvimento de um sistema completo para administração de uma loja, implementando funcionalidades como gerenciamento de produtos, controle de estoque e cadastro de clientes. O sistema foi desenvolvido utilizando PHP orientado a objetos e MySQL, aplicando os conceitos de CRUD (Create, Read, Update, Delete) para manipulação eficiente dos dados.</p>
 
 
 ## 🚀 Tecnologias
